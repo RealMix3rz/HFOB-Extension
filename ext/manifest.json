@@ -22,8 +22,5 @@
         "css/inject.css"
       ]
     }
-  ],
-  "web_accessible_resources": [
-    "img/orange.png"
   ]
 }
