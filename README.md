@@ -1,2 +1,2 @@
 # HFOB-Extension
-Rewriting a friend's userscript as a web extension for a POC.
+A native chrome extension to change HF's default theme.
